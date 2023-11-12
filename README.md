@@ -4,7 +4,7 @@ As a software engineer, I developed a simple Rock, Paper, Scissors game to furth
 The app presents three buttons for the user to choose Rock, Paper, or Scissors. After making a selection, the app randomly generates the computer's choice. The winner is determined based on the classic Rock, Paper, Scissors rules. The game's outcome is displayed with a colorful message, and the user's and computer's scores are updated accordingly.
 The purpose of creating this app is to practice Swift programming, UIKit framework, and user interface design in the context of a simple interactive game.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7uC3A5Yvi6E)
 
 # Development Environment
 

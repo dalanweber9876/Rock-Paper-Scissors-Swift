@@ -15,7 +15,7 @@ The purpose of creating this app is to practice Swift programming, UIKit framewo
 ## Useful Websites
 
 * [Apple Developer Documentation](https://developer.apple.com/documentation/)
-* [Quick Swift Tutorial]([https://stackoverflow.com/](https://www.youtube.com/watch?v=yuo50-TiKgo))
+* [Quick Swift Tutorial](https://www.youtube.com/watch?v=yuo50-TiKgo)
 * [Swift.org](https://swift.org/)
 
 ## Future Work
